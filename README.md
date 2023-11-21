@@ -2,7 +2,7 @@
 
 **CSS Grid Layout is completely changing the game for web design. Learn about CSS Grid Layout and the Firefox DevTools layout panel**
 
-Mozilla CSS Playground : [**Click Here**](https://mozilladevelopers.github.io/playground/css-grid)
+Mozilla CSS Learn Grid Course : [Click Here](https://mozilladevelopers.github.io/playground/css-grid) to access.
 
 Get the latest firefox Developer Edition : [Download](https://www.mozilla.org/en-US/firefox/developer/?utm_source=moz-playground&utm_medium=referral&utm_content=bottom-cta)
 
@@ -23,3 +23,5 @@ Get the latest firefox Developer Edition : [Download](https://www.mozilla.org/en
 [7.Named-Lines](7.Named-Lines.html)
 
 [8.Learn-More](8.Learn-More.md)
+
+**Inspect the above Lessons in your web-browser to see their code.**
